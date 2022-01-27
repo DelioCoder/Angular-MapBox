@@ -1,27 +1,31 @@
-# MapasApp
+- Manejo de librerías escritas en JavaScript en TypeScript
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+- Uso de Mapas basados en Mapbox (el API es similar a la de Google Maps)
 
-## Development server
+- Marcadores
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Eventos
 
-## Code scaffolding
+- FlyTo
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Coordenadas geográficas
 
-## Build
+- Componentes para re-utilización de mapas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Mantener objetos de forma persistente
 
-## Running unit tests
+ - @types
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Zoom
 
-## Running end-to-end tests
+- Range
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Screenshot
 
-## Further help
+![1](https://user-images.githubusercontent.com/64493192/151283281-73246b3b-0156-4e63-8aa3-459d572e048d.png)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![2](https://user-images.githubusercontent.com/64493192/151283284-adb3d5f4-2888-4238-8a63-24fd115a90fb.png)
+
+![3](https://user-images.githubusercontent.com/64493192/151283287-482c652c-3f61-4f8d-aeaa-fe4edc333782.png)
+
+![4](https://user-images.githubusercontent.com/64493192/151283290-19ad57f9-0f69-40ea-bbaf-7f6779bd6ec2.png)
